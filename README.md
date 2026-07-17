@@ -47,6 +47,36 @@ AI generates easy-to-understand messages to help students explain their career c
 
 ### 🌎 Career Explore
 Students can explore different career options and get detailed information about each field.
+## Future Scope
+
+- AI-based Psychometric Analysis  
+  - Advanced AI tests to analyze students' interests, personality, skills, and strengths for better career recommendations.
+
+- Real-Time Career Market Analysis  
+  - Provide updated information about job trends, industry demand, salary insights, and future career opportunities.
+
+- AI Career Counsellor Chatbot  
+  - A 24/7 AI assistant to solve students' doubts related to courses, colleges, exams, and career decisions.
+
+- College & Course Recommendation System  
+  - Suggest suitable colleges, courses, scholarships, and admission processes according to students' profiles.
+
+- Skill Development Tracking  
+  - Track students' learning progress and recommend relevant courses, projects, and certifications.
+
+- Multi-Language Support  
+  - Make career guidance accessible for students from different regions by supporting multiple languages.
+
+- AI Generated Career Videos  
+  - Generate short informative videos explaining different career fields, required skills, daily work life, and future scope.
+
+- Industry Expert Connect  
+  - Connect students with professionals and mentors for real-world career guidance.
+
+## Technology Stack
+
+(Add your technologies here)
+
 
 ### 🎥 AI Career Videos
 For every career option, AI generates simple explanation videos that describe:
