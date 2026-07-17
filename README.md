@@ -73,10 +73,6 @@ Students can explore different career options and get detailed information about
 - Industry Expert Connect  
   - Connect students with professionals and mentors for real-world career guidance.
 
-## Technology Stack
-
-(Add your technologies here)
-
 
 ### 🎥 AI Career Videos
 For every career option, AI generates simple explanation videos that describe:
